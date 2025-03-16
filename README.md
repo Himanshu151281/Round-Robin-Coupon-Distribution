@@ -32,7 +32,7 @@ Developed a live web application that distributes coupons to guest users in a ro
 - **Toggle Coupon Availability:** Allowed dynamic enabling/disabling of certain coupons.
 
 ### 6. Live Deployment
-- Hosted the application with a publicly accessible link.
+- Hosted the application with a publicly accessible link on netlify - https://rrcd-by-himanshu-kumar.netlify.app
 
 ### 7. Documentation
 - Provided setup instructions and a brief explanation of the implementation.
